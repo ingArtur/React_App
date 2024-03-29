@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Users/arthu/curso-react-intro/build/index.html/static/css/main.ed332a76.css",
+    "main.js": "/Users/arthu/curso-react-intro/build/index.html/static/js/main.537d1d6f.js",
+    "static/media/One-Piece-cuando-inicia-el-arco-argumental-de-Egg-Head-en-el-anime.jpg": "/Users/arthu/curso-react-intro/build/index.html/static/media/One-Piece-cuando-inicia-el-arco-argumental-de-Egg-Head-en-el-anime.cda0a8e2c717cdea88e1.jpg",
+    "index.html": "/Users/arthu/curso-react-intro/build/index.html/index.html",
+    "static/media/delete.svg": "/Users/arthu/curso-react-intro/build/index.html/static/media/delete.eead01d4a13755b1ae7f218b28aa60e6.svg",
+    "static/media/check.svg": "/Users/arthu/curso-react-intro/build/index.html/static/media/check.8c88cf1b9de569561dd13f3a0110beb2.svg",
+    "main.ed332a76.css.map": "/Users/arthu/curso-react-intro/build/index.html/static/css/main.ed332a76.css.map",
+    "main.537d1d6f.js.map": "/Users/arthu/curso-react-intro/build/index.html/static/js/main.537d1d6f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ed332a76.css",
+    "static/js/main.537d1d6f.js"
+  ]
+}
