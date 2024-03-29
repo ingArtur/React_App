@@ -12,7 +12,7 @@ code {
     monospace;
 } */
 
-/* body {
+body {
   margin: 0;
   padding: 0;
   overflow: auto;
@@ -26,9 +26,9 @@ code {
   margin: 0 24px;
   position: relative;
   min-height: 100vh;
-} */
+}
 
-body {
+/* body {
   margin: 0;
   padding: 0;
   background: #F2F4F5;
@@ -40,4 +40,4 @@ body {
   margin: 0 24px;
   position: relative;
   min-height: 100vh;
-}
+} */
