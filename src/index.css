@@ -1,4 +1,4 @@
-body {
+/* body {
   margin: 0;
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
     'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
@@ -10,4 +10,34 @@ body {
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
+} */
+
+/* body {
+  margin: 0;
+  padding: 0;
+  overflow: auto;
+  animation: animacionFondo 10s infinite;
+  background: url('../src/One-Piece-cuando-inicia-el-arco-argumental-de-Egg-Head-en-el-anime.jpg') center center fixed;
+  background-size: cover;
+  color: 100720;
+}
+
+#root {
+  margin: 0 24px;
+  position: relative;
+  min-height: 100vh;
+} */
+
+body {
+  margin: 0;
+  padding: 0;
+  background: #F2F4F5;
+  color: #1E1E1F;
+  font-family: 'Montserrat', Arial, Helvetica, sans-serif;
+}
+
+#root {
+  margin: 0 24px;
+  position: relative;
+  min-height: 100vh;
 }
